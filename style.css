@@ -1,0 +1,11 @@
+.background{
+    background-image: url(https://htmlcolorcodes.com/assets/images/colors/light-orange-color-solid-background-1920x1080.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .title {
+    font-size: 5rem;
+    text-align: center;
+    color: rgb(214, 160, 13);
+    background-color: rgba(6, 8, 136, 0.63);
+  }
